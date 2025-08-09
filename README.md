@@ -4,6 +4,10 @@
 
 ![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/alizahidpak/interval:all_time&label=All%20time&color=blue)
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
 <!--
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alizahidpak)](https://github.com/anuraghazra/github-readme-stats)
 
