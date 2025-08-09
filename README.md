@@ -1,10 +1,10 @@
+![](https://github-readme-stats.vercel.app/api/wakatime?username=alizahidpak&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+
+<!--
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alizahidpak)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alizahidpak)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=alizahidpak&api_domain=wakapi.dev)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
 **alizahidpak/alizahidpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
